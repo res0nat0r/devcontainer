@@ -1,0 +1,9 @@
+{
+	"name": "GitHub Codespaces (Default)",
+
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"remoteUser": "codespace"
+}
