@@ -4,7 +4,7 @@
     "ghcr.io/devcontainers-contrib/features/ballerina-sdkman:2": { },
     "ghcr.io/devcontainers-contrib/features/clojure-asdf:2": { "version": "1.10.0" },
     "ghcr.io/devcontainers-contrib/features/crystal-asdf:2": { "elixirVersion": "v1.15.2", "erlangVersion": "26.0.2" },
-    "ghcr.io/devcontainers-contrib/features/elixir-asdf:2": {"elixirversion": "1.14.3", "erlangVersion": "9.4.1"},
+    "ghcr.io/devcontainers-contrib/features/elixir-asdf:2": {"elixirversion": "1.13.4-otp-25", "erlangVersion": "25.0.2"},
     "ghcr.io/devcontainers-contrib/features/ocaml-asdf:2": { "version": "5.0.0" }
   }
 }
