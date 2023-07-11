@@ -15,5 +15,8 @@ pkgs.mkShell {
     rustc
     haskell.compiler.native-bignum.ghc928
     stack
+    exercism
+    diff-so-fancy
+    tig
   ];
 }
